@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    color:#F2F2F2;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+#titulo{
+    background-color: #A4A4A4;
+    width: 1100px;
+    height: 80px;
+    margin-left: 100px;
+    
+}
+
+#principal{
+    width: 1100px;
+    height:750px;
+    background-color: #F2F2F2;
+    float:left;
+    margin-left: 100px;
+}
+
+#izquierda{
+    width: 500px;
+    height: 800px;
+    float:left;
+    
+}
+#formularioLogin{
+    width: 500px;
+    height: 700px;
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+#formularioInsercion{
+    width:500px;
+    height: 150px;
+    margin-top: 10px;
+    float:left;
+}
+
+#formularioFiltrado{
+    width: 400px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 100px;
+    float:left;
+    
+}
+
+th{
+    background-color: #A4A4A4;
+    color:white;
+}
+.tabla{
+    text-align: center;
+}
+
+#tabla1{
+    float:left;
+    width: 500px;
+}
+
+#tabla2{
+    float:left;
+    width: 400px;
+}
+
+#primeTabla{
+    margin-top:50px;
+    float:left;
+    width: 500px;
+    
+}
+
+#segunTabla{
+    margin-top:20px;
+    float:left;
+    width: 500px;
+    
+}
+
+#derecha{
+    width: 500px;
+    height: 800px;
+    float:left;
+}
+
+audio{
+    width: 150px;
+}
